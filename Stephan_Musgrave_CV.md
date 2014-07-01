@@ -1,14 +1,9 @@
-Stephan Musgrave
-=============
-
-### Stephan Musgrave
-
-## Stephan Musgrave
-
 # Stephan Musgrave
 
-### Skills
-  - Ruby
-  - Agile 
-  - Object­ Oriented Programming
+## Skills
+  
+## Other transferable skills
 
+## Work Experience
+
+## Education
