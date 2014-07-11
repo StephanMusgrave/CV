@@ -18,7 +18,7 @@ Learned coding techniques and best practices from world class developers, projec
     - Unit testing with RSpec
     - Feature testing with Cucumber and Capybara
     - FactoryGirl for setting up test data
-    - Capybara to simulate website
+    - Capybara to simulate website features
 - Object­ oriented principles and design
 - Agile values, principles and practices
 - PostgreSQL database
@@ -37,8 +37,8 @@ Learned coding techniques and best practices from world class developers, projec
 - Precompiled languages such as CoffeeScript, HAML and SASS
 
 ### Software development experience
-- I have designed and implemented three separate computer data aquisition annd control systems for bioreactors
-- I have commisioned new websites for Unicorn Biologics and GSK
+- I have designed and implemented three separate computer data aquisition annd control systems for bioreactors prodcution system and associated instrumnetation
+- I have commisioned new websites for Unicorn Biologics and GlaxoSmithKline
 
 ### Other transferable skills
 - Project management
@@ -49,7 +49,7 @@ Learned coding techniques and best practices from world class developers, projec
 
 ### Unicorn Biologics (2008-2014)
 #### Co-founder
-Unicorn Biologics provided consulting support and due diligence valuations for Biopharmaceutical Compnies and investors
+Unicorn Biologics provides consulting support and due diligence assessments for Biopharmaceutical Compnies and investors
 
 ### GlaxoSmithKline (2001-2008)
 #### VP Technical Operations
@@ -81,7 +81,7 @@ twitter:  @StephanMusgrave
 [unipop]:http://unipop.herokuapp.com
 [code for unipop]:https://github.com/StephanMusgrave/unipop
 
-[Instamaker]:http://instamakermusgrave.herokuapp
+[Instamaker]:http://instamakermusgrave.herokuapp.com
 [code for instamaker]:https://github.com/StephanMusgrave/instamaker
 
 [Airport]:https://github.com/StephanMusgrave/Airport
