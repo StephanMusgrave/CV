@@ -1,11 +1,11 @@
 # Stephan Musgrave
-I'm a software developer with a background in biopharmaceutical product development
+I'm a software developer with a background in biopharmaceutical medicine development and manufacture
 
 ##Examples of my code
 
 |[unipop]         |[Instamaker]    |[Airport]               |
 |:----------------|:---------------|------------------------|
-|Final project at Makers Academy:  A rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed comminty such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]|
+|Final project at Makers Academy:  A rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails Instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]|
 
 ## Software development skills
 
@@ -17,7 +17,7 @@ Learned coding techniques and best practices from world class developers, projec
 - Test driven development:
     - Unit testing with RSpec
     - Feature testing with Cucumber and Capybara
-    - FactoryGirl for setting up test data
+    - FactoryGirl for setting up test objects
     - Capybara to simulate website features
 - Object­ oriented principles and design
 - Agile values, principles and practices
@@ -37,11 +37,12 @@ Learned coding techniques and best practices from world class developers, projec
 - Precompiled languages such as CoffeeScript, HAML and SASS
 
 ### Software development experience
-- I have designed and implemented three separate computer data aquisition annd control systems for bioreactors prodcution system and associated instrumnetation
-- I have commisioned new websites for Unicorn Biologics and GlaxoSmithKline
+- I have designed and implemented a number of computer data acquisition and control systems for a bioreactor production system and associated instrumentation
+- I have commissioned new company and business unit websites for Unicorn Biologics and GlaxoSmithKline
 
-### Other transferable skills
+### Other skills
 - Project management
+- Product development
 - Strategic planning
 - International team leadership
 
@@ -49,23 +50,28 @@ Learned coding techniques and best practices from world class developers, projec
 
 ### Unicorn Biologics (2008-2014)
 #### Co-founder
-Unicorn Biologics provides consulting support and due diligence assessments for Biopharmaceutical Compnies and investors
+Unicorn Biologics provides consulting support and due diligence assessments for Biopharmaceutical Companies and Investors
 
 ### GlaxoSmithKline (2001-2008)
 #### VP Technical Operations
+Responsible for Business Development, Regulatory and Project Management functions for the Biopharmaceutical Development Group 
 
 ### GlaxoWellcome (1994-2001)
 #### Head Technical Support
+Responsible for providing technical and Scientific support for GW's commercial biopharmaceutical manufacturing facilities
 
 ### The Wellcome Foundation 
 #### Fermentation Group Leader (1988-1994)
+Responsible for developing manufacturing processes and computer control systems for new biopharmaceutical medicines
 
 ### University of Surrey/UKAE Harwell (1985-1988)
 ##### Postdoctoral Research Fellow
+Research into animal cell culture technology and the development of a computer data acquisition and control system
 
 ## Education
 - BSc Hons (2i) Applied Biology, University of Wales (1981)
-- PhD Biotechnology, University of Dundee (1984)
+- PhD Biotechnology, University of Dundee (1984)  Included developing a multitasking computer data logging and control system 
+
 - Post-graduate Biochemical Engineering course, University College London (1990) 
 - Finance for Senior Managers, London Business School (2001)
 - Web Development Course, Makers Academy (2014)
