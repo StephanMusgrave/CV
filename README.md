@@ -75,8 +75,10 @@ Research into animal cell culture technology and the development of a computer d
 - Web Development Course, Makers Academy (2014)
 
 ## contact me
-GitHub:  [StephanMusgrave] 
+GitHub:  [StephanMusgrave]
+
 email:  steve.musgrave@outlook.com
+
 twitter:  @StephanMusgrave
 
 
