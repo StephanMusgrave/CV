@@ -3,9 +3,9 @@ I'm a software developer with a background in biopharmaceutical medicine develop
 
 ##Examples of my code
 
-|[unipop]         |[Instamaker]    |[Airport]               |
-|:----------------|:---------------|------------------------|
-|Final project at Makers Academy:  A rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails Instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]|
+[unipop]         |[Instamaker]    |[Airport]               
+:----------------|:---------------|------------------------
+Final project at Makers Academy:  A rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails Instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]
 
 ## Software development skills
 ### Makers Academy: 12 weeks intensive web development bootcamp: March - June 2014
@@ -24,12 +24,12 @@ Learned coding techniques and best practices from world class developers, projec
 - JavaScript, jQuery and AJAX
 - JSON and jBuilder
 - HTML5 and Embedded Ruby templating system
-- CSS3 and Twitter Bootstrap: Mobile-first responsive design
+- CSS3 and Twitter Bootstrap: mobile-first responsive design
 - User authentication and authorisation with bcrypt and Devise
 - DataMapper and ActiveRecord
 - WebSockets
 - Integration of APIs including Twilio, Stripe, Paperclip and Google Maps
-- Version control with git and GitHub
+- Version control with Git and GitHub
 - Deployment on Heroku and image hosting on AWS
 - Precompiled languages such as CoffeeScript, HAML and SASS
 
