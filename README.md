@@ -9,7 +9,7 @@ I'm a software developer with a background in biopharmaceutical medicine develop
 
 ## Software development skills
 
-### Makers Academy - 12 weeks intensive web development bootcamp: March—June 2014
+### Makers Academy; 12 weeks intensive web development bootcamp: March -June 2014
 Learned coding techniques and best practices from world class developers, project-based test-driven work and pair programming.
 - Ruby
 - Ruby on Rails
@@ -24,16 +24,14 @@ Learned coding techniques and best practices from world class developers, projec
 - PostgreSQL database
 - JavaScript, jQuery and AJAX
 - JSON and jBuilder
-- HTML5 and ERB
-- CSS3 and Twitter Bootstrap
-- Mobile-first responsive design
+- HTML5 and Embedded Ruby templating system
+- CSS3 and Twitter Bootstrap: Mobile-first responsive design
 - User authentication and authorisation with bcrypt and Devise
 - DataMapper and ActiveRecord
 - WebSockets
 - Integration of APIs including Twilio, Stripe, Paperclip and Google Maps
 - Version control with git and GitHub
-- Deployment to Heroku and image hosting on AWS
-- Agile values, principles and practices
+- Deployment on Heroku and image hosting on AWS
 - Precompiled languages such as CoffeeScript, HAML and SASS
 
 ### Software development experience
