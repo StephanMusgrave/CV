@@ -1,10 +1,10 @@
 # Stephan Musgrave
-I'm a software developer with a background in biopharmaceutical medicine development and manufacture
+I'm a software developer with a background in biopharmaceutical medicine development and manufacture.  I've recently completed three months at [Makers Academy] learning new technologies and updating my coding skills.
 
 ##Examples of my code
 
-[unipop]         |[Instamaker]    |[Airport]               
-:----------------|:---------------|------------------------
+[unipop]        |[Instamaker]       |[Airport]               
+----------------|-------------------|---------------------------
 Final project at Makers Academy:  A rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails Instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]
 
 ## Software development skills
@@ -19,6 +19,7 @@ Learned coding techniques and best practices from world class developers, projec
     - FactoryGirl for setting up test objects
     - Capybara to simulate website features
 - Object­ oriented principles and design
+- Pair programming
 - Agile values, principles and practices
 - PostgreSQL database
 - JavaScript, jQuery and AJAX
@@ -37,7 +38,7 @@ Learned coding techniques and best practices from world class developers, projec
 - I have designed and implemented a number of computer data acquisition and control systems for a bioreactor production system and associated instrumentation
 - I have commissioned new company and business unit websites for Unicorn Biologics and GlaxoSmithKline
 
-### Other skills
+### Business skills
 - Project management
 - Product development
 - Strategic planning
@@ -54,7 +55,7 @@ Responsible for Business Development, Regulatory and Project Management function
 
 ### GlaxoWellcome (1994-2001)
 #### Head Technical Support
-Responsible for providing technical and Scientific support for GW's commercial biopharmaceutical manufacturing facilities
+Responsible for providing technical and scientific support for GW's commercial biopharmaceutical manufacturing facilities
 
 ### The Wellcome Foundation 
 #### Fermentation Group Leader (1988-1994)
@@ -88,3 +89,4 @@ Research into animal cell culture technology and the development of a computer d
 [code for airport]:https://github.com/StephanMusgrave/Airport
 
 [RockPaperScissors]:http://rockpaperscissorsslizardspock.herokuapp.com
+[Makers Academy]:http://www.makersacademy.com
