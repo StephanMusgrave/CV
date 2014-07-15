@@ -8,8 +8,7 @@ I'm a software developer with a background in biopharmaceutical medicine develop
 |Final project at Makers Academy:  A rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails Instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]|
 
 ## Software development skills
-
-### Makers Academy; 12 weeks intensive web development bootcamp: March -June 2014
+### Makers Academy: 12 weeks intensive web development bootcamp: March - June 2014
 Learned coding techniques and best practices from world class developers, project-based test-driven work and pair programming.
 - Ruby
 - Ruby on Rails
@@ -45,7 +44,6 @@ Learned coding techniques and best practices from world class developers, projec
 - International team leadership
 
 ## Employment History
-
 ### Unicorn Biologics (2008-2014)
 #### Co-founder
 Unicorn Biologics provides consulting support and due diligence assessments for Biopharmaceutical Companies and Investors
@@ -69,18 +67,14 @@ Research into animal cell culture technology and the development of a computer d
 ## Education
 - BSc Hons (2i) Applied Biology, University of Wales (1981)
 - PhD Biotechnology, University of Dundee (1984)  Included developing a multitasking computer data logging and control system 
-
 - Post-graduate Biochemical Engineering course, University College London (1990) 
 - Finance for Senior Managers, London Business School (2001)
 - Web Development Course, Makers Academy (2014)
 
 ## contact me
-GitHub:  [StephanMusgrave]
-
-email:  steve.musgrave@outlook.com
-
-twitter:  @StephanMusgrave
-
+- GitHub:  [StephanMusgrave]
+- email:  steve.musgrave@outlook.com
+- twitter:  @StephanMusgrave
 
 [StephanMusgrave]:https://github.com/StephanMusgrave
 
