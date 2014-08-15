@@ -5,7 +5,7 @@ I'm a software developer with a background in biopharmaceutical medicine develop
 
 [unipop]        |[Instamaker]       |[Airport]               
 ----------------|-------------------|---------------------------
-Final project at Makers Academy:  A rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails Instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | Week 3 assignment at Makers Academy: A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]
+Final project at Makers Academy:  A Ruby on Rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails Instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | Week 3 assignment at Makers Academy: A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]
 
 ## Software development skills
 ### [Makers Academy]: 12 weeks intensive web development bootcamp: March - June 2014
@@ -72,7 +72,7 @@ Research into animal cell culture technology and the development of a computer d
 - Finance for Senior Managers, London Business School (2001)
 - Web Development Course, Makers Academy (2014)
 
-## contact me
+## Contact me
 - GitHub:  [StephanMusgrave]
 - email:  steve.musgrave@outlook.com
 - twitter:  @StephanMusgrave
