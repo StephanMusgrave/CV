@@ -5,7 +5,7 @@ I'm a software developer with a background in biopharmaceutical medicine develop
 
 [unipop]        |[Instamaker]       |[Airport]               
 ----------------|-------------------|---------------------------
-Final project at Makers Academy:  A Ruby on Rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here [code for unipop]| A Ruby on Rails Instagram clone focussed on posting images with tags and geolocation.  See the code here [code for instamaker] | Week 3 assignment at Makers Academy: A test driven OOP Ruby model of airports and planes using RSpec. See the code here [code for Airport]
+Final project at Makers Academy:  A Ruby on Rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here: [code for unipop]| A Ruby on Rails Instagram clone focused on posting images with tags and geolocation.  See the code here: [code for instamaker] | Week 3 assignment at Makers Academy: A test driven OOP Ruby model of airports and control of plane movements using RSpec. See the code here: [code for Airport]
 
 ## Software development skills
 ### [Makers Academy]: 12 weeks intensive web development bootcamp: March - June 2014
@@ -48,7 +48,7 @@ Learned coding techniques and best practices from world class developers, projec
 ### Freelance Software Developer (2014 - present)
 Providing software development support to clients
 
-### Unicorn Biologics (2008 - 2014)
+### Unicorn Biologics Ltd. (2008 - 2014)
 #### Co-founder
 Providing consulting support and due diligence assessments for Biopharmaceutical Companies and Investors
 
@@ -60,8 +60,8 @@ Responsible for Business Development, Regulatory and Project Management function
 #### Head Technical Support
 Responsible for providing technical and scientific support for GW's commercial biopharmaceutical manufacturing facilities
 
-### The Wellcome Foundation 
-#### Fermentation Group Leader (1988 - 1994)
+### The Wellcome Foundation  (1988 - 1994)
+#### Fermentation Group Leader
 Responsible for developing manufacturing processes and computer control systems for new biopharmaceutical medicines
 
 ### University of Surrey/UKAE Harwell (1985 - 1988)
