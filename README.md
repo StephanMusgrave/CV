@@ -9,7 +9,7 @@ Final project at Makers Academy:  A Ruby on Rails app developed by a team in 2 w
 
 ## Software development skills
 ### [Makers Academy]: 12 weeks intensive web development bootcamp: March - June 2014
-Learned coding techniques and best practices from world class developers, project-based test-driven work and pair programming.
+Learned coding techniques and best practices from world class developers, project-based test-driven development and pair programming.
 - Ruby
 - Ruby on Rails
 - Sinatra
@@ -45,32 +45,32 @@ Learned coding techniques and best practices from world class developers, projec
 - International team leadership
 
 ## Employment History
-### Freelance Software Developer (2014-present)
+### Freelance Software Developer (2014 - present)
 Providing software development support
 
-### Unicorn Biologics (2008-2014)
+### Unicorn Biologics (2008 - 2014)
 #### Co-founder
 Unicorn Biologics provides consulting support and due diligence assessments for Biopharmaceutical Companies and Investors
 
-### GlaxoSmithKline (2001-2008)
+### GlaxoSmithKline (2001 - 2008)
 #### VP Technical Operations
 Responsible for Business Development, Regulatory and Project Management functions for the Biopharmaceutical Development Group 
 
-### GlaxoWellcome (1994-2001)
+### GlaxoWellcome (1994- 2001)
 #### Head Technical Support
 Responsible for providing technical and scientific support for GW's commercial biopharmaceutical manufacturing facilities
 
 ### The Wellcome Foundation 
-#### Fermentation Group Leader (1988-1994)
+#### Fermentation Group Leader (1988 - 1994)
 Responsible for developing manufacturing processes and computer control systems for new biopharmaceutical medicines
 
-### University of Surrey/UKAE Harwell (1985-1988)
+### University of Surrey/UKAE Harwell (1985 - 1988)
 ##### Postdoctoral Research Fellow
 Research into animal cell culture technology and the development of a computer data acquisition and control system
 
 ## Education
 - BSc Hons (2i) Applied Biology, University of Wales (1981)
-- PhD Biotechnology, University of Dundee (1984)  Included developing a multitasking computer data logging and control system 
+- PhD Biotechnology, University of Dundee (1984)  Included developing a multitasking (Unix) computer data logging and control system 
 - Post-graduate Biochemical Engineering course, University College London (1990) 
 - Finance for Senior Managers, London Business School (2001)
 - Web Development Course, Makers Academy (2014)
