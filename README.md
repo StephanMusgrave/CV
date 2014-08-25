@@ -35,7 +35,7 @@ Learned coding techniques and best practices from world class developers, projec
 - Precompiled languages such as CoffeeScript, HAML and SASS
 
 ### Software development experience
-- I have designed and implemented a number of computer data acquisition and control systems for a bioreactor production system and associated instrumentation
+- I have designed and implemented a number of Unix based computer data acquisition and control systems for bioreactor production systems and associated instrumentation
 - I have commissioned new company and business unit websites for Unicorn Biologics and GlaxoSmithKline
 
 ### Business skills
