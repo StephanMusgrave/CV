@@ -45,6 +45,8 @@ Learned coding techniques and best practices from world class developers, projec
 - International team leadership
 
 ## Employment History
+### Freelance (2014-present)
+
 ### Unicorn Biologics (2008-2014)
 #### Co-founder
 Unicorn Biologics provides consulting support and due diligence assessments for Biopharmaceutical Companies and Investors
