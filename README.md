@@ -46,11 +46,11 @@ Learned coding techniques and best practices from world class developers, projec
 
 ## Employment History
 ### Freelance Software Developer (2014 - present)
-Providing software development support
+Providing software development support to clients
 
 ### Unicorn Biologics (2008 - 2014)
 #### Co-founder
-Unicorn Biologics provides consulting support and due diligence assessments for Biopharmaceutical Companies and Investors
+Providing consulting support and due diligence assessments for Biopharmaceutical Companies and Investors
 
 ### GlaxoSmithKline (2001 - 2008)
 #### VP Technical Operations
