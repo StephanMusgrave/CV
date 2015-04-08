@@ -19,9 +19,8 @@ I am eager to further develop my skills as a software developer while working in
 - Analytical tools: Mixpanel and Google Analytics
 - Deployment on Heroku and image hosting on AWS
   Pair Programming, Pivotal Tracker, Git, GitHub and Bitbucket
-
-### Software development experience
 - Examples of my code can be found at: [StephanMusgrave]
+
 - I have also designed and implemented a number of Unix based computer data acquisition and control systems for bioreactor production systems and associated instrumentation
 - I have commissioned new company and business unit websites for Unicorn Biologics and GlaxoSmithKline
 
@@ -65,8 +64,8 @@ Research into animal cell culture technology and the development of a computer d
 - Web Development Course, [Makers Academy] (2014) : 12 weeks intensive web development bootcamp.Learned coding techniques and best practices from world class developers, project-based test-driven development and pair programming.
 
 ## Contact me
-- GitHub:  [StephanMusgrave]
-- email:  steve.musgrave@outlook.com
+- GitHub:   [StephanMusgrave]
+- email:    steve.musgrave@outlook.com
 - twitter:  [@StephanMusgrave]
 
 [StephanMusgrave]:https://github.com/StephanMusgrave
