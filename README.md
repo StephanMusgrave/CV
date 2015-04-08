@@ -73,9 +73,10 @@ Research into animal cell culture technology and the development of a computer d
 ## Contact me
 - GitHub:  [StephanMusgrave]
 - email:  steve.musgrave@outlook.com
-- twitter:  @StephanMusgrave
+- twitter:  [@StephanMusgrave]
 
 [StephanMusgrave]:https://github.com/StephanMusgrave
+[@StephanMusgrave]:https://twitter.com/StephanMusgrave
 
 [unipop]:http://unipop.herokuapp.com
 [code for unipop]:https://github.com/StephanMusgrave/unipop
