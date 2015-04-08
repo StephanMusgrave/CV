@@ -31,13 +31,6 @@ I am eager to further develop my skills as a software developer while working in
 - Strategic planning
 - International team leadership
 
-##Examples of my code
-
-[unipop]        |[Instamaker]       |[Airport]
-----------------|-------------------|---------------------------
-Final project at Makers Academy:  A Ruby on Rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here: [code for unipop]| A Ruby on Rails Instagram clone focused on posting images with tags and geolocation.  See the code here: [code for instamaker] | Week 3 assignment at Makers Academy: A test driven OOP Ruby model of airports and control of plane movements using RSpec. See the code here: [code for Airport]
-
-
 ## Employment History
 ###[Techstars London] (2014 - 2015):  Software Developer
 Providing software development support to start-up companies on the London Techstars 2014 program.  This included developing Features and RSpec test coverage for one company’s Rails based product, setting up a Behaviour Driven Development environment (Lettuce) for another company and adding Mixpanel to a JavaScript front end.
