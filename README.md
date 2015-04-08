@@ -32,7 +32,8 @@ I am eager to further develop my skills as a software developer while working in
 - International team leadership
 
 ## Employment History
-### [Techstars London] (2014 - 2015):  Software Developer
+### [Techstars London] (2014 - 2015)
+#### Software Developer
 Providing software development support to start-up companies on the London Techstars 2014 program.  This included developing Features and RSpec test coverage for one company’s Rails based product, setting up a Behaviour Driven Development environment (Lettuce) for another company and adding Mixpanel to a JavaScript front end.
 I was also responsible for setting up the Wi-Fi network for the Techstars London Demo Day at the Genesis Cinema.
 
