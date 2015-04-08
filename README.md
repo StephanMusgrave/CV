@@ -12,7 +12,7 @@ I am eager to further develop my skills as a software developer while working in
 - Object­ oriented principles and design
 - Collaborative working and version control:
 - Agile values, principles and practices
-- PostgreSQL database
+- PostgreSQL and MySQL
 - JavaScript and jQuery
 - HTML5, CSS3 and Twitter Bootstrap
 - Integration of APIs including Twilio, Stripe, Paperclip and Google Maps
