@@ -1,38 +1,29 @@
 # Stephan Musgrave
-I'm a software developer with a background in biopharmaceutical medicine development and manufacture.  I've recently completed three months at [Makers Academy] learning new technologies and updating my coding skills.
+A junior level Software Developer passionate about making functional web applications.  
+After a career in biopharmaceutical medicine development I decided to join a highly intensive web development course at [Makers Academy] to pursue my life-long interest in software development and kick start a career as a web developer.
+I am eager to further develop my skills as a software developer while working in a creative environment.
 
 ##Examples of my code
 
 [unipop]        |[Instamaker]       |[Airport]               
 ----------------|-------------------|---------------------------
 Final project at Makers Academy:  A Ruby on Rails app developed by a team in 2 weeks.  unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop  is designed for a closed community such as a  university.  Unipop is optimized for iPhone 5 and supports other mobile devices.  See the code here: [code for unipop]| A Ruby on Rails Instagram clone focused on posting images with tags and geolocation.  See the code here: [code for instamaker] | Week 3 assignment at Makers Academy: A test driven OOP Ruby model of airports and control of plane movements using RSpec. See the code here: [code for Airport]
-
-## Software development skills
-### [Makers Academy]: 12 weeks intensive web development bootcamp: March - June 2014
-Learned coding techniques and best practices from world class developers, project-based test-driven development and pair programming.
-- Ruby
-- Ruby on Rails
-- Sinatra
+## Skills
+### Software development skills
+- Ruby and Ruby on Rails
 - Test driven development:
     - Unit testing with RSpec
-    - Feature testing with Cucumber and Capybara
-    - FactoryGirl for setting up test objects
-    - Capybara to simulate website features
+    - Feature testing with Cucumber/Lettuce and Capybara
 - Object­ oriented principles and design
-- Pair programming
+- Collaborative working and version control:
 - Agile values, principles and practices
 - PostgreSQL database
-- JavaScript, jQuery and AJAX
-- JSON and jBuilder
-- HTML5 and Embedded Ruby templating system
-- CSS3 and Twitter Bootstrap: mobile-first responsive design
-- User authentication and authorisation with bcrypt and Devise
-- DataMapper and ActiveRecord
-- WebSockets
+- JavaScript and jQuery
+- HTML5, CSS3 and Twitter Bootstrap
 - Integration of APIs including Twilio, Stripe, Paperclip and Google Maps
-- Version control with Git and GitHub
+- Analytical tools: Mixpanel and Google Analytics
 - Deployment on Heroku and image hosting on AWS
-- Precompiled languages such as CoffeeScript, HAML and SASS
+  Pair Programming, Pivotal Tracker, Git, GitHub and Bitbucket
 
 ### Software development experience
 - I have designed and implemented a number of Unix based computer data acquisition and control systems for bioreactor production systems and associated instrumentation
@@ -45,8 +36,9 @@ Learned coding techniques and best practices from world class developers, projec
 - International team leadership
 
 ## Employment History
-### Freelance Software Developer (2014 - present)
-Providing software development support to clients
+###Techstars London (2014 - 2015):  Software Developer
+Providing software development support to start-up companies on the London Techstars 2014 program.  This included developing Features and RSpec test coverage for one company’s Rails based product, setting up a Behaviour Driven Development environment (Lettuce) for another company and adding Mixpanel to a JavaScript front end.
+I was also responsible for setting up the Wi-Fi network for the Techstars London Demo Day at the Genesis Cinema.
 
 ### Unicorn Biologics Ltd. (2008 - 2014)
 #### Co-founder
@@ -73,7 +65,7 @@ Research into animal cell culture technology and the development of a computer d
 - PhD Biotechnology, University of Dundee (1984)  Included developing a multitasking (Unix) computer data logging and control system 
 - Post-graduate Biochemical Engineering course, University College London (1990) 
 - Finance for Senior Managers, London Business School (2001)
-- Web Development Course, Makers Academy (2014)
+- Web Development Course, [Makers Academy] (2014) : 12 weeks intensive web development bootcamp.Learned coding techniques and best practices from world class developers, project-based test-driven development and pair programming.
 
 ## Contact me
 - GitHub:  [StephanMusgrave]
